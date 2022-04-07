@@ -4,15 +4,17 @@
 
 ---
 
-## Hi there and thanks for passing by! 📸
+##  Hi there and thanks for passing by! 📸
  
 ---
-My name is Carolina, and I am a Full Stack Web Developer, graduated from ISDI Coders in Madrid.
 
-After more than 12 years working in the Hospitality industry, I decided to leave my comfort zone and make a big change in life with something I had always been curious about: programming.
-I also studied Law and I am passionate about photography!
+ 
+_My name is Carolina, and I am a Full Stack Web Developer, graduated from ISDI Coders in Madrid._
 
- I am a truly Team Worker, resilient, love learning and adquiring new knowledge!
+_After more than 12 years working in the Hospitality industry, I decided to leave my comfort zone and make a big change in life with something I had always_ _been curious about: programming._
+_I also studied Law and I am passionate about photography!_
+
+ _I am a truly Team Worker, resilient, love learning and adquiring new knowledge!_
 
 
 
