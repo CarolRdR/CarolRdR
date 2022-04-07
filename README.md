@@ -7,6 +7,13 @@ I also studied Law and I am passionate about photography!
 
 I am a truly Team Worker, resilient, love learning and adquiring new knowledge! 
 
+- 🔭 I’m currently working on my Final Project from ISDI Coders as freelancer
+- 🌱 I’m currently learning Angular
+- 👯 I’m looking to collaborate on new projects!
+- 💬 Ask me about React, JavaScript....
+- 📫 How to reach me: rosdelreal@gmail.com
+- ⚡ Fun fact: I am also a photographer! 
+
 ### I have been and am working with the following:
 
  <img width="150" alt="React" src="https://user-images.githubusercontent.com/94986301/162154997-7448ec6e-5d98-41fc-a504-90a894f7d137.png">
