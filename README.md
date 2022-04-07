@@ -4,7 +4,7 @@
 
 ---
 
-##  Hi there and thanks for passing by! 📸
+##  `Hi there and thanks for passing by!` 📸
  
 ---
 
@@ -28,7 +28,7 @@ _I also studied Law and I am passionate about photography!_
 
  ---
 
-## I have been and am working with the following:
+## `I have been and am working with the following:`
  
  
 ---
@@ -71,7 +71,7 @@ _I also studied Law and I am passionate about photography!_
 
 ---
 
-## Hot Links
+## `Hot Links`
  
  ---
 
