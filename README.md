@@ -18,21 +18,46 @@ I am a truly Team Worker, resilient, love learning and adquiring new knowledge!
 
 ### I have been and am working with the following:
 
- <img width="150" alt="React" src="https://user-images.githubusercontent.com/94986301/162154997-7448ec6e-5d98-41fc-a504-90a894f7d137.png">
-<img width="100" alt="Angular" src="https://user-images.githubusercontent.com/94986301/162156810-10ebf927-7203-468f-a2dc-7439222bb361.png">
+<div>
+<span>
+<img width="100" height="80" alt="Angular" src="https://user-images.githubusercontent.com/94986301/162156810-10ebf927-7203-468f-a2dc-7439222bb361.png">
+ <img width="150" height="82" alt="React" src="https://user-images.githubusercontent.com/94986301/162154997-7448ec6e-5d98-41fc-a504-90a894f7d137.png">
+<img width="110" height="80" alt="HTML-CSS-JS" src="https://user-images.githubusercontent.com/94986301/162161682-24cae105-52f2-45b5-886c-d279e0d42930.jpg">
+ <img width="110" height="80" alt="HTML-CSS-JS" src="https://user-images.githubusercontent.com/94986301/162162988-78e160f3-f469-4b2e-b650-93c926f9d35f.jpg">
+ </span>
+</div>
+
+ <div>
+ <span>
+<img width="100" height="80" alt="Node" src="https://user-images.githubusercontent.com/94986301/162163504-77b88727-5762-4112-9dfa-e7cbc55c8727.png">
+ <img width="150" height="80" alt="MongoDB" src="https://user-images.githubusercontent.com/94986301/162164010-34ed07d6-53b5-4282-9070-5cbfe9714bb7.png">
+<img width="110" height="80" alt="Restful" src="https://user-images.githubusercontent.com/94986301/162164864-1a072f80-233d-4206-8e42-7a223a832940.jpg">
+ <img width="110" height="80" alt="jwt" src="https://user-images.githubusercontent.com/94986301/162165293-465f6001-00b1-47d6-b400-e625336606e2.png">
+</span>
+</div>
+
+<div>
+ <span>
+<img width="100" height="80" alt="Eslint" src="https://user-images.githubusercontent.com/94986301/162166661-192c308b-1cfa-45f1-ab05-f832e9003934.png">
+ <img width="150" height="80" alt="Sonarqube" src="https://user-images.githubusercontent.com/94986301/162165992-17dc1c69-13b3-4906-b734-dcfed7137e73.png">
+<img width="110" height="80" alt="Jest" src="https://user-images.githubusercontent.com/94986301/162166968-844ae077-bd40-4fd7-a6a8-674c99a72e31.jpg">
+ <img width="110" height="80" alt="HTML-CSS-JS" src="https://user-images.githubusercontent.com/94986301/162167352-ab90a5e5-aee1-4c0c-91d6-781024d7066f.jpg">
 
 
-Front-end: 
-HTML ¦ BEM ¦ CSS/Sass ¦ JavaScript/TypeScript ¦ React/Redux ¦ Angular ¦ Firebase
 
-Back-end: 
-NodeJS ¦ MongoDB ¦ MongooseJS ¦ ExpressJS ¦ JWT | API Restful
+
+  
+  
+</span>
+</div>
+
+
+
 
 Tools:
 VS Code ¦  Slack ¦ Trello
 
-Code quality:
-Sonarqube | Jest | Eslint
+
 
 Organization and design:
 Trello | Figma | Excalidraw
