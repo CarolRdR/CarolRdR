@@ -7,6 +7,8 @@ I also studied Law and I am passionate about photography!
 
 I am a truly Team Worker, resilient, love learning and adquiring new knowledge! 
 
+
+
 - 🔭 I’m currently working on my Final Project from ISDI Coders as freelancer
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on new projects!
@@ -34,6 +36,10 @@ Sonarqube | Jest | Eslint
 
 Organization and design:
 Trello | Figma | Excalidraw
+
+### Hot Links
+
+ 💼  https://www.linkedin.com/in/carolina-ros/
 
 <!--
 **CarolRdR/CarolRdR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
