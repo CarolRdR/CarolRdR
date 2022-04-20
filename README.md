@@ -74,6 +74,8 @@ _I also studied Law and I am passionate about photography!_
  
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CarolRdR&show_icons=true&theme=tokyonight)](https://github.com/CarolRdR/github-readme-stats)
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolRdR&layout=compact)](https://github.com/CarolRdR/github-readme-stats)
+ 
  
 ## `Hot Links`
  
