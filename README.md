@@ -5,7 +5,7 @@
 
 ---
 <div align="center">
-##  `Hi there and thanks for passing by!` 📸
+#  `Hi there and thanks for passing by!` 📸
  
 ---
 
