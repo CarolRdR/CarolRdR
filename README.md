@@ -20,10 +20,10 @@ _I also studied Law and I am passionate about photography!_
 
 
  
-- 🔭 I’m currently working on my Final Project from ISDI Coders as freelancer
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working in Digital Virgo
+- 🌱 I’m currently working in Angular with NgRx
 - 👯 I’m looking to collaborate on new projects!
-- 💬 I´m interested in React, React Native, Angular, Ionic, JavaScript....
+- 💬 I´m interested in React, React Native, Angular, NgRx, Ionic, JavaScript....
 - 📫 How to reach me: https://www.linkedin.com/in/carolina-ros/
 - ⚡ Fun fact: I am also a photographer! 
 
