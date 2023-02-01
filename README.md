@@ -1,5 +1,4 @@
 <div align="center">
- <img src="![cat](https://raw.githubusercontent.com/CarolRdR/CarolRdR/main/cat.gif)"
 <img src="![cat](https://github.com/CarolRdR/CarolRdR/blob/main/cat.gif)">
 
 </div>
