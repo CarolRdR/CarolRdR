@@ -1,5 +1,5 @@
 <div align="center">
-"![]https://github.com/CarolRdR/CarolRdR/blob/main/cat.gif"
+<img src="![]https://github.com/CarolRdR/CarolRdR/blob/main/cat.gif">
 
 </div>
 
