@@ -4,7 +4,7 @@
 </div>
 
 ---
-
+<div align="center">
 ##  `Hi there and thanks for passing by!` 📸
  
 ---
@@ -84,6 +84,7 @@ _I also studied Law and I am passionate about photography!_
 
 - 💼  https://www.linkedin.com/in/carolina-ros/
 - 📷  https://www.instagram.com/carolros_photog/
+ </div>
 
 <!--
 **CarolRdR/CarolRdR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
